@@ -1,6 +1,5 @@
-
-# # Simple BotSSH:
+# # BotPanel :
 
 ```
-wget -q https://raw.githubusercontent.com/RidwanzAnphelibelll/BotSSH/main/install.sh && chmod +x install.sh && ./install.sh
+wget -q https://raw.githubusercontent.com/RidwanzAnphelibelll/BotPanel/main/install.sh && chmod +x install.sh && ./install.sh
 ```
